@@ -1,0 +1,27 @@
+_repo: Love-A-Treatise-on-the-Science-of-Sex-attraction-for-the-use-of-Physicians-and-Students-of-Me__53121
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Talmey, Bernard Simon
+    alias: Talmey, B. S. (Bernard Simon)
+    birthdate: 1862
+    deathdate: 1926
+    gutenberg_agent_id: '47226'
+    url: http://www.gutenberg.org/2009/agents/47226
+description: ''
+gutenberg_issued: '2016-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53121'
+  lccn: '19001416'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Sex'
+- GITenberg
+title: "Love: A Treatise on the Science of Sex-attraction\r\nfor the use of Physicians\
+  \ and Students of Medical Jurisprudence"
+url: http://www.gutenberg.org/ebooks/53121
